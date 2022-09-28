@@ -4,7 +4,7 @@ import ImageInner from '../components/ImageInner';
 const Alibaba_import = ({ src, alt, width, height }) => {
   src = '/images/sheap.jpeg';
   alt = 'Picture of the author';
-  width = '1900px';
+  width = '1450px';
   height = '500px';
 
   return (

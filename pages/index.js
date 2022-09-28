@@ -16,7 +16,7 @@ const Home = () => {
           content="width=device-width, initial-scale=1"
         ></meta>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://www.beehoneyllc.us/"></link>
+        <link rel="canonical" href="https://www.beehoneyllc.us/" />
       </Head>
       <main className="d-flex flex-column">
         <VideoInner />

@@ -7,7 +7,7 @@ const About = ({ src, alt, width, height }) => {
   src = '/images/truck.jpg';
   alt = 'Picture of the author';
   width = '1450px';
-  height = '605px';
+  height = '500px';
 
   return (
     <>

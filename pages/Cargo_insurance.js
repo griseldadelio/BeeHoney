@@ -3,10 +3,10 @@ import ImageInner from '../components/ImageInner';
 import { Button } from 'react-bootstrap';
 
 const Alibaba_import = ({ src, alt, width, height }) => {
-  src = '/images/insurance.jpg';
+  src = '/images/insurance1.jpg';
   alt = 'Picture of the author';
-  width = '1600px';
-  height = '400px';
+  width = '1450px';
+  height = '500px';
 
   return (
     <>

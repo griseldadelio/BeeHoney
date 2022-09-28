@@ -53,3 +53,12 @@
 .text_filing {
   color: #0fa68b !important;
 }
+
+/* Resources pages*/
+.resource_image {
+  filter: opacity(0.4) drop-shadow(0 0 0 #0fa68b);
+}
+
+.txt_color {
+  color: #e5b034 !important;
+}

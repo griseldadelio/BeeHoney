@@ -36,14 +36,17 @@ const NavBar = () => {
             </NavDropdown>
             <NavDropdown
               className="fw-bold"
-              title="Forms"
+              title="Resources"
               id="basic-nav-dropdown"
             >
-              <NavDropdown.Item href="/Files">
-                Commercial Shipments
+              <NavDropdown.Item href="/Guide_to_importing_usa">
+                Guide to Importing
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Household Goods
+              <NavDropdown.Item href="/Section_321">
+                Section 321
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/Useful_links">
+                Useful Links
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link className="fw-bold" href="/Faqs">
