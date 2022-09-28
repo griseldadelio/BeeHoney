@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next';
 import style from '../styles/web.module.css';
 
 const Isf_filing = () => {
@@ -9,10 +10,11 @@ const Isf_filing = () => {
         <div className="text-center m-5 display-6 fw-bold">
           What to know…
           <div className="container">
-            <img
+            <Image
               src="https://clearitusa.com/wp-content/uploads/2019/09/ISF-graphic-2.png"
               width="100%"
-            ></img>
+              alt="isf filing"
+            ></Image>
           </div>
         </div>
         <div className="container p-5">

@@ -1,5 +1,6 @@
 import React from 'react';
 import ImageInner from '../components/ImageInner';
+import Link from 'next';
 import style from '../styles/web.module.css';
 
 const Guide_to_importing_usa = ({ src, alt, width, height }) => {
@@ -264,9 +265,9 @@ const Guide_to_importing_usa = ({ src, alt, width, height }) => {
               or invoice to which the value would exceed $800.00 USD or the
               equivalent. The shipment must be intended for one private
               individual. For information on section 321, click&nbsp;
-              <a href="/Section_321" className="text-warning">
+              <Link href="/Section_321" className="text-warning">
                 here.
-              </a>
+              </Link>
             </p>
           </div>
           <div className="mt-2 pt-3">
