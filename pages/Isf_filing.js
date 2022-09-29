@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next';
+import Image from 'next/image';
 import style from '../styles/web.module.css';
 
 const Isf_filing = () => {

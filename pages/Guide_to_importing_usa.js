@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageInner from '../components/ImageInner';
-import Link from 'next';
+import Link from 'next/link';
 import style from '../styles/web.module.css';
 
 const Guide_to_importing_usa = ({ src, alt, width, height }) => {
