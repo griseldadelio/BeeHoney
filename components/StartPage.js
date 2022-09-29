@@ -47,9 +47,9 @@ export const StartPage = () => {
                   <Col sm={8}>
                     <h4>REQUEST A QUOTE </h4>
                     Want information about a specific shipment? Fill out our
-                    "Request a Quote" questionnaire and one of our team members
-                    will get back o you. For general questions, fill out the
-                    "Quick Contact" form.
+                    &nbsp; <i>Request a Quote</i> questionnaire and one of our
+                    team members will get back o you. For general questions,
+                    fill out the &nbsp; <i>Quick Contact</i> form.
                   </Col>
                 </Row>
               </Col>
